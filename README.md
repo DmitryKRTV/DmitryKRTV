@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://imageup.ru/img239/4172149/logo.jpg" width="100" style="border-radius:50%">
+  <img src="https://imageup.ru/img239/4172149/logo.jpg" width="250" style="border-radius:50%">
 <div id="badges">
 <a href="https://www.linkedin.com/in/dzmitry-karatayeu-892671253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
