@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <img src="https://drive.google.com/file/d/1-stnvij2Zp4Zia9SqSBXK8QOieNb0lV0/view?usp=sharing" width="100" color="black"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/dzmitry-karatayeu-892671253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,8 +19,10 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="800" height="500"/>
 </div>
+
+---
 
 ### 👩‍💻 About Me:
 I'm a Frontend Developer from Minsk, Belarus <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
