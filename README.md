@@ -18,13 +18,9 @@
   </h1>
 </div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" height="300"/>
 </div>
-
----
 
 ### 👩‍💻 About Me:
 I'm a Frontend Developer from Minsk, Belarus <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
